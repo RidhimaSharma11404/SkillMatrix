@@ -140,12 +140,6 @@ docker-compose up --build
 
 ---
 
-## 🎓 Cognizant Interview Preparation Kit
-This repository includes a dedicated [**`INTERVIEW_CHEAT_SHEET.md`**](./INTERVIEW_CHEAT_SHEET.md) covering:
-* 🎙️ **30-Second Introduction Script** for the technical interviewer.
-* ❓ **Top 15 Technical Q&As** on Spring Boot, Bean Lifecycle, JPA N+1 problem, DTO pattern, React Hooks, and CORS.
-
----
 
 ## 👤 Author
 **Ridhima Sharma**
