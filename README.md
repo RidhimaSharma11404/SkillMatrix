@@ -11,9 +11,6 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 ### 🌐 **[Click Here for Live Demo (Vercel)](https://skill-matrix-coral.vercel.app/)**
-
-*A production-ready Full-Stack Enterprise Application built for **Cognizant Full-Stack Java Developer** technical evaluation.*
-
 </div>
 
 ---
