@@ -10,6 +10,7 @@
 [![Swagger](https://img.shields.io/badge/OpenAPI-Swagger_3.0-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](http://localhost:8080/swagger-ui.html)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
+
 ### 🌐 **[Click Here for Live Demo (Vercel)](https://skill-matrix-coral.vercel.app/)**
 </div>
 
